@@ -7,6 +7,7 @@ Siga-me nas minhas redes sociais, e fique por dentro de todas as informações:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eduardobcosta7)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eduardobcosta7)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://eduardobcosta.medium.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eduardobcosta)
 
 ## Sobre o meu objetivo
 Tenho como meu principal objetivo desenvolver tecnologias que ajudaram nosso mundo futuramente, e pretendo me dedicar bastante em nome deste objetivo.
