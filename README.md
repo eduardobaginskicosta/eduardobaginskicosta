@@ -1,4 +1,4 @@
-<h3 align="center">Eduardo Baginski Costa - Um simples programador</h3>
+<h3 align="center">—&emsp;Um simples programador&emsp;—</h3>
 
 Boas-vindas ao meu perfil oficial do **GitHub**! Estou muito feliz de você estar visitando aos meus repositórios, e espero que algum deles possam te ajudar em sua jornada independente do seu nível de conhecimento.   
    
