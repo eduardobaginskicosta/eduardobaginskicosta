@@ -1,22 +1,58 @@
-## Um pouco sobre mim
-Olá caros leitores, sou um programador web e desktop brasileiro e um grande amante da ciência, principalmente da tecnologia como um todo. Amo desenvolver websites, e softwares e serviços que possam facilitar a vida das pessoas, ou ajuda-las de alguma maneira.
+<h2 align="center">Eduardo Baginski Costa - Um simples programador</h2>
+
+Boas-vindas ao meu perfil oficial do **GitHub**! Estou muito feliz de você estar visitando aos meus repositórios, e espero que algum deles possam te ajudar em sua jornada independente do seu nível de conhecimento.   
    
-Siga-me nas minhas redes sociais, e fique por dentro de todas as informações:   
+Espero muito criar novos repositórios no futuro.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/eduardobaginskicosta/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/eduardobcosta7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eduardobcosta7)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://eduardobcosta.medium.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@eduardobcosta)
+<h2 align="center">Aplicativos, tecnologias e linguagens</h2>
 
-## Sobre o meu objetivo
-Tenho como meu principal objetivo desenvolver tecnologias que ajudaram nosso mundo futuramente, e pretendo me dedicar bastante em nome deste objetivo.
+Como todos os programadores também dependo de programas, linguagens, bibliotecas e serviços. Bem, estou aqui para mostrar a você tudo o que utilizo em meu dia a dia, tanto para o densenvolvimento web quanto para o desenvolvimento de programas para o **Microsoft Windows**.
+
+- ### Desenvolvimento Web
+<p align="left">
+	Minha paixão pelo desenvolvimento de sites se origina aos meus oito anos de idade, quando utilizando um simples bloco de notas e alguns vídeos no <b>YouTube</b> percebi que poderiar criar coisas maravilhosas, melhorando com a introdução do <b>PHP</b>.
+</p>
    
-Segundamente, tenho também por objetivo futuramente abrir uma universidade de tecnologias e invoações, que oferecerei oportunidade a pessoas simples de terem uma formação acadêmica de qualidade, e que possam sair com uma vaga de emprego garantida.
+<p align="center">
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" title="Visual Studio Code">
+	&emsp;
+	<img src="https://img.shields.io/badge/HTML_5-024DA1?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5">
+	<img src="https://img.shields.io/badge/CSS_3-024DA1?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3">
+	<img src="https://img.shields.io/badge/JavaScript-024DA1?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript">
+	<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
+	&emsp;
+	<img src="https://img.shields.io/badge/Composer-183A61?style=for-the-badge&logo=Composer&logoColor=white" title="Composer">
+	<img src="https://img.shields.io/badge/PHP-183A61?style=for-the-badge&logo=php&logoColor=white" title="PHP">
+	<img src="https://img.shields.io/badge/MySQL-183A61?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL">
+</p>
 
-## Minha realidade atualmente
-Estou estudando e juntando recursos, além de esforços diversos para que um dia possa alcançar e cumprir com meus obejtivos, mas enquanto isso não acontece farei o que está a meu alcançe para informar as pessoas, e ajudá-las a desenvolver pequenos projetos.
-   
-Se quiser me motivar a continuar com meus objetivos, por favor peço que me ajude:   
+- ### Desenvolvimento Desktop
+<p align="left">
+	Eu amo profundamente o desenvolvimento web pois foi o meu primeiro contato com o mundo dos códigos, mas tudo isso iria mudar quando pela primeira vez conheci a minha primeira linguagem de programação, o <b>CPP</b>, mas acabaria mudando de rumo mais tarde conhecendo uma das minhas linguagens preferidas, o <b>CSharp</b>.
+</p>
 
-[![PayPal](https://img.shields.io/badge/Doar_com_o_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=WADCQ99DVC596)
+<p align="center">
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" title="Visual Studio Code">
+	&emsp;
+	<img src="https://img.shields.io/badge/HTML_5-024DA1?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5">
+	<img src="https://img.shields.io/badge/CSS_3-024DA1?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3">
+	<img src="https://img.shields.io/badge/JavaScript-024DA1?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript">
+	<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
+	&emsp;
+	<img src="https://img.shields.io/badge/Node.JS-183A61?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.JS">
+	<img src="https://img.shields.io/badge/Electron-183A61?style=for-the-badge&logo=electron&logoColor=white" title="Electron">
+	<img src="https://img.shields.io/badge/NPM-183A61?style=for-the-badge&logo=npm&logoColor=white" title="NPM">
+</p>
+
+<p align="center">
+<!-- 	<img src="source_here" title="title_here"> -->
+	<img src="https://img.shields.io/badge/SharpDevelop_5.0-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" title="SharpDevelop 5.0">
+	&emsp;
+	<img src="https://img.shields.io/badge/C%2B%2B-024DA1?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="CPP">
+	<img src="https://img.shields.io/badge/CSharp-024DA1?style=for-the-badge&logo=c-sharp&logoColor=white" title="CSharp">
+	<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
+	&emsp;
+	<img src="https://img.shields.io/badge/NuGet-183A61?style=for-the-badge&logo=nuget&logoColor=white" title="NuGet">
+	<img src="https://img.shields.io/badge/Arquivo_INI-183A61?style=for-the-badge" title="Arquivos INI">
+	<img src="https://img.shields.io/badge/Aqruivo_XML-183A61?style=for-the-badge" title="XML">
+</p>
