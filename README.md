@@ -32,19 +32,6 @@ Como todos os programadores também dependo de programas, linguagens, biblioteca
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" title="Visual Studio Code">
-	&emsp;
-	<img src="https://img.shields.io/badge/HTML_5-024DA1?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5">
-	<img src="https://img.shields.io/badge/CSS_3-024DA1?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3">
-	<img src="https://img.shields.io/badge/JavaScript-024DA1?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript">
-	<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
-	&emsp;
-	<img src="https://img.shields.io/badge/Node.JS-183A61?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.JS">
-	<img src="https://img.shields.io/badge/Electron-183A61?style=for-the-badge&logo=electron&logoColor=white" title="Electron">
-	<img src="https://img.shields.io/badge/NPM-183A61?style=for-the-badge&logo=npm&logoColor=white" title="NPM">
-</p>
-
-<p align="center">
 <!-- 	<img src="source_here" title="title_here"> -->
 	<img src="https://img.shields.io/badge/SharpDevelop_5.0-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" title="SharpDevelop 5.0">
 	&emsp;
@@ -55,4 +42,21 @@ Como todos os programadores também dependo de programas, linguagens, biblioteca
 	<img src="https://img.shields.io/badge/NuGet-183A61?style=for-the-badge&logo=nuget&logoColor=white" title="NuGet">
 	<img src="https://img.shields.io/badge/Arquivo_INI-183A61?style=for-the-badge" title="Arquivos INI">
 	<img src="https://img.shields.io/badge/Aqruivo_XML-183A61?style=for-the-badge" title="XML">
+</p>
+
+<p align="left">
+	Com o passar do tempo percebi que poderia utilizar o que eu tanto ama, o desenvolvimento de sites, com o que eu desejava desenvolver, os aplicativos para <b>Desktop</b>, utilizando o <b>Node.js</b> e o framework <b>Electron</b>, e isso mudou minha maneira de pensar.
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" title="Visual Studio Code">
+	&emsp;
+	<img src="https://img.shields.io/badge/HTML_5-024DA1?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5">
+	<img src="https://img.shields.io/badge/CSS_3-024DA1?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3">
+	<img src="https://img.shields.io/badge/JavaScript-024DA1?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript">
+	<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
+	&emsp;
+	<img src="https://img.shields.io/badge/Node.JS-183A61?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.JS">
+	<img src="https://img.shields.io/badge/Electron-183A61?style=for-the-badge&logo=electron&logoColor=white" title="Electron">
+	<img src="https://img.shields.io/badge/NPM-183A61?style=for-the-badge&logo=npm&logoColor=white" title="NPM">
 </p>
