@@ -46,10 +46,10 @@
 <p align="justify">
 	Mas a minha vida não é somente a programção, não mesmo, também amo digitar textos principalmente textos informativos, e pensando nisso também escrevo notícias sobre ciência, tecnologias em geral, segurança digital, dentre outras categorias no meu perfil oficial do <b>Medium</b>. Se deseja saber mais sobre os meus projetos futuros, ou sobre atualizações importantes me siga nas <b>redes sociais</b> e fique por dentro de tudo:
 	<p align="center">
-		<a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Facebook</b></a>&emsp;
-		<a href="https://twitter.com/eduardobcosta7/" target="about:blank"><b>Twitter</b></a>&emsp;
-		<a href="https://instagram.com/eduardobcosta7/" target="about:blank"><b>Instragram</b></a>&emsp;
-		<a href="https://eduardobcosta.medium.com/" target="about:blank"><b>Medium</b></a>&emsp;
-		<a href="https://youtube.com/@eduardobcosta/" target="about:blank"><b>YouTube</b></a>
+		<a href="https://facebook.com/eduardobaginskicosta/" target="_blank"><b>Facebook</b></a>&emsp;
+		<a href="https://twitter.com/eduardobcosta7/" target="_blank"><b>Twitter</b></a>&emsp;
+		<a href="https://instagram.com/eduardobcosta7/" target="_blank"><b>Instragram</b></a>&emsp;
+		<a href="https://eduardobcosta.medium.com/" target="_blank"><b>Medium</b></a>&emsp;
+		<a href="https://youtube.com/@eduardobcosta/" target="_blank"><b>YouTube</b></a>
 	</p>
 </p>
