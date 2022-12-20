@@ -1,81 +1,55 @@
-<h3 align="center">—&emsp;Um simples programador&emsp;—</h3>
+<!-- INTRODUÇÃO -->
 
-Boas-vindas ao meu perfil oficial do **GitHub**! Estou muito feliz de você estar visitando aos meus repositórios, e espero que algum deles possam te ajudar em sua jornada independente do seu nível de conhecimento.   
-   
-Espero muito criar novos repositórios no futuro.
+<h3 align="center">—&emsp;Um Simples Programador&emsp;—</h3>
 
-<h3 align="center">—&emsp;Aplicativos, tecnologias e linguagens&emsp;—</h3>
-
-Como todos os programadores também dependo de programas, linguagens, bibliotecas e serviços. Bem, estou aqui para mostrar a você tudo o que utilizo em meu dia a dia, tanto para o densenvolvimento web quanto para o desenvolvimento de programas para o **Microsoft Windows**.
-
-<details>
-	<summary><b>Sobre o Desenvolvimento Web</b></summary><br>
-	<p align="left">
-		Minha paixão pelo desenvolvimento de sites se origina aos meus oito anos de idade, quando utilizando um simples bloco de notas e alguns vídeos no <b>YouTube</b> percebi que poderiar criar coisas maravilhosas, melhorando com a introdução do <b>PHP</b>.
-		<br><br>
-		<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" title="Visual Studio Code">
-		&emsp;
-		<img src="https://img.shields.io/badge/HTML_5-024DA1?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5">
-		<img src="https://img.shields.io/badge/CSS_3-024DA1?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3">
-		<img src="https://img.shields.io/badge/JavaScript-024DA1?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript">
-		<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
-		<br>
-		<img src="https://img.shields.io/badge/Composer-183A61?style=for-the-badge&logo=Composer&logoColor=white" title="Composer">
-		<img src="https://img.shields.io/badge/PHP-183A61?style=for-the-badge&logo=php&logoColor=white" title="PHP">
-		<img src="https://img.shields.io/badge/MySQL-183A61?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL">
-	</p>
-</details>
-
-<details>
-	<summary><b>Sobre o Desenvolvimento Desktop</b></summary><br>
-	<p align="justify">
-		Eu amo profundamente o desenvolvimento web pois foi o meu primeiro contato com o mundo dos códigos, mas tudo isso iria mudar quando pela primeira vez conheci a minha primeira linguagem de programação, o <b>CPP</b>, mas acabaria mudando de rumo mais tarde conhecendo uma das minhas linguagens preferidas, o <b>CSharp</b>.
-		<br><br>
-		<img src="https://img.shields.io/badge/SharpDevelop_5.0-007ACC?style=for-the-badge&logo=c-sharp&logoColor=white" title="SharpDevelop 5.0">
-		<img src="https://img.shields.io/badge/Windows_Terminal-007ACC?style=for-the-badge&logo=windows terminal&logoColor=white" title="Windows Terminal">
-		&emsp;
-		<img src="https://img.shields.io/badge/C%2B%2B-024DA1?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="CPP">
-		<img src="https://img.shields.io/badge/CSharp-024DA1?style=for-the-badge&logo=c-sharp&logoColor=white" title="CSharp">
-		<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
-		<br>
-		<img src="https://img.shields.io/badge/NuGet-183A61?style=for-the-badge&logo=nuget&logoColor=white" title="NuGet">
-		<img src="https://img.shields.io/badge/Arquivos_INI-183A61?style=for-the-badge" title="Arquivos INI">
-		<img src="https://img.shields.io/badge/Aqruivos_XML-183A61?style=for-the-badge" title="XML">
-		<br><br>
-		Com o passar do tempo percebi que poderia utilizar o que eu tanto ama, o desenvolvimento de sites, com o que eu desejava desenvolver, os aplicativos para <b>Desktop</b>, utilizando o <b>Node.js</b> e o framework <b>Electron</b>, e isso mudou minha maneira de pensar.
-		<br><br>
-		<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" title="Visual Studio Code">
-		&emsp;
-		<img src="https://img.shields.io/badge/HTML_5-024DA1?style=for-the-badge&logo=html5&logoColor=white" title="HTML 5">
-		<img src="https://img.shields.io/badge/CSS_3-024DA1?style=for-the-badge&logo=css3&logoColor=white" title="CSS 3">
-		<img src="https://img.shields.io/badge/JavaScript-024DA1?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript">
-		<img src="https://img.shields.io/badge/JSON-024DA1?style=for-the-badge&logo=json&logoColor=white" title="JSON">
-		<br>
-		<img src="https://img.shields.io/badge/Node.JS-183A61?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.JS">
-		<img src="https://img.shields.io/badge/Electron-183A61?style=for-the-badge&logo=electron&logoColor=white" title="Electron">
-		<img src="https://img.shields.io/badge/NPM-183A61?style=for-the-badge&logo=npm&logoColor=white" title="NPM">
-	</p>
-</details>
-
-<h3 align="center">—&emsp;Minhas Redes Sociais&emsp;—</h3>
-<p align="left">
-	Se deseja conhecer um pouco mais sobre mim ou sobre os meus trabalhos, seja na área de desenvolvimento ou até mesmo na área das notícias, me sigua nas <b>redes sociais</b> e fique por dentro de tudo o que acontece.
+<p align="justify">
+	Sou um autoditata brasileiro e um amante da ciência e das tecnologias como um todo. O meu passatempo favorito é projetar e programar sites interios utilizando o <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP (Composer)</b> e <b>MySQL</b>, além de programar aplicativos complexos para <b>Microsoft Windows</b> utilizando a linguagem <b>CSharp</b> ou o framework <b>Electron (Node.js)</b>.
+	<br><br>
+	Sempre estou me auto-propondo desafios e lógicas complexas de serem resolvidas, e isso me obriga a correr atrás de informações em fóruns, como o <b>Stack Overflow</b>, além das documentações oficias das linguagens utilizadas.
+	<br><br>
+	Espero que através do <b>GitHub</b> eu possa publicar repositórios contedo bibliotecas e aplicativos sob a <b>Licença do MIT</b>, possibilitando que qualquer pessoa do mundo passa baixar os códigos para utilizar em seus projetos pessoais, ou oferecendo soluções rápidas para empresas e projetos comerciais importantes.
+	<br><br>
+	De uma maneira resumida, os meus objetivos podem ser definidos da seguinte forma:
+	<ul>
+		<li>Publicar repositórios públicos sob a <b>Licença do MIT</b>.</li>
+		<li>Disponibilizar bibliotecas para <b>Navegadores</b> e módulos do <b>Node.js</b> gratuitamente.</li>
+		<li>Possiblitar o aprendizado e a curiosidade, incentivando a criação de <b>Forks</b> dos repositórios oficiais.</li>
+		<li>Permitir que todos possam programar e aumentar as suas experiências na área da programação.</li>
+		<li>Ajudar pessoas simples a criarem seus primeitos projetos.</li>
+	</ul>
 </p>
 
-<p align="center">
-	<a href="https://www.facebook.com/eduardobaginskicosta/" target="_blank_">
-		<img src="https://img.shields.io/badge/Facebook-007ACC?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook">
-	</a>
-	<a href="https://twitter.com/eduardobcosta7/" target="_blank_">
-		<img src="https://img.shields.io/badge/Twitter-007ACC?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter">
-	</a>
-	<a href="https://www.instagram.com/eduardobcosta7/" target="_blank_">
-		<img src="https://img.shields.io/badge/Instagram-007ACC?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram">
-	</a>
-	<a href="https://eduardobcosta.medium.com/" target="_blank_">
-		<img src="https://img.shields.io/badge/Medium-007ACC?style=for-the-badge&logo=medium&logoColor=white" title="Medium">
-	</a>
-	<a href="https://www.youtube.com/@eduardobcosta/" target="_blank_">
-		<img src="https://img.shields.io/badge/YouTube-007ACC?style=for-the-badge&logo=youtube&logoColor=white" title="YouTube">
-	</a>
+<!-- HABILIDADES -->
+<h3 align="center">—&emsp;Proezas Realizadas&emsp;—</h3>
+
+<p align="justify">
+	Comecei a programar aos meus 8 anos de idade, e utilizando um simples <b>Bloco de Notas</b> e alguns vídeos do <b>YouTube</b>, em qualidades muitas vezes duvidozas pela internet lenta, programei a minha primeira página web, e algum tempo depois viria a conhecer o <b>CSharp</b> e mais recentemente o <b>Electron</b> através do <b>Node.js</b>.
+	<br><br>
+	Entre as minhas principais proezas, dentre mais de cinquenta, estão:
+	<ul>
+		<li>Um clone do <b>YouTube</b> utilizando o <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e o <b>PHP</b>.</li>
+		<li>Uma plataforma de streaming com proteção de mídia utilizando o <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e o <b>PHP</b>.</li>
+		<li>Uma rede social simples com suporte a fotos e vídeos utilizando o <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> e o <b>PHP</b>.</li>
+		<li>Um <b>WebCrawler</b> completo utilizando o <b>PHP (Composer)</b>.</li>
+		<li>Um <b>WebCrawler</b> completo baseado em promessas para <b>Navegadores</b> e o <b>Node.js</b> utilizando a API do <b>Fetch</b>.</li>
+		<li>Um <b>WebCrawler</b> otimizado para a captura de <b>Imagens</b> e <b>Meta Tags</b> utilizando o <b>PHP (Composer)</b>.</li>
+		<li>Um motor de busca utilizando o <b>PHP</b>, <b>MySQL</b> e a biblioteca <b>jQuery</b> utilizando o <b>AJAX</b>.</li>
+		<li>Um aplicativo de gerenciamento de downloads, que baixa arquivos grandes em <b>Chunks</b> de maneira paralela com base no processador do computador, reduzindo o tempo de <b>download</b> em troca da utilização da <b>memória RAM</b>.</li>
+		<li>Aplicativos diversos baseados em <b>Interfaces de Linha de Comandos (CLI)</b>, com suporte a coloração, entradas do usuário, entre outros.</li>
+		<li>Um servidor web local <b>(localhost)</b> simples utlizando o <b>CSharp</b>.</li>
+	</ul>
+</p>
+
+<!-- REDES SOCIAIS -->
+<h3 align="center">—&emsp;Onde Me Encontrar&emsp;—</h3>
+
+<p align="justify">
+	Mas a minha vida não é somente a programção, não mesmo, também amo digitar textos principalmente textos informativos, e pensando nisso também escrevo notícias sobre ciência, tecnologias em geral, segurança digital, dentre outras categorias no meu <a href="https://eduardobcosta.medium.com/" target="_blank_"><b>perfil oficial</b></a> do <b>Medium</b>. Se deseja saber mais sobre os meus projetos futuros, ou sobre atualizações importantes me siga nas <b>redes sociais</b> e fique por dentro de tudo:
+	<p align="center">
+		<a href="https://facebook.com/eduardobaginskicosta/" target="_blank_"><b>Facebook</b></a>&emsp;
+		<a href="https://twitter.com/eduardobcosta7/" target="_blank_"><b>Twitter</b></a>&emsp;
+		<a href="https://instagram.com/eduardobcosta7/" target="_blank_"><b>Instragram</b></a>&emsp;
+		<a href="https://eduardobcosta.medium.com/" target="_blank_"><b>Medium</b></a>&emsp;
+		<a href="https://youtube.com/@eduardobcosta/" target="_blank_"><b>YouTube</b></a>
+	</p>
 </p>
