@@ -42,10 +42,10 @@
 		<li><b>Respeitar</b> as opiniões das outras pessoas, pontos de vista e experiências diferentes.</li>
 		<li><b>Aceitando responsabilidades</b> e <b>pedindo desculpas</b> às pessoas afetadas por nossos erros e aprendendo com a experiência.</li>
 		<li><b>Concentrando-se</b> no que é melhor não apenas para nós como indivíduos, mas para a comunidade em geral.</li>
-	</ul><br>
+	</ul>
 	Mas como a maldade também existe, pedimos aos nossos <b>colaboradores</b> e aos <b>membros da comunidade</b> que
 	tenham respeito com outras pessoas para termos um ambiente mais acolhedor, e por esse motivo trazemos alguns exemplos do que não toleramos:
-	<br><ul>
+	<br><br><ul>
 		<li>A utilização de <b>linguagem</b> ou <b>imagens sexualizadas</b> e <b>atenção ou avanços sexuais</b> de qualquer tipo.</li>
 		<li><b>Trolling</b>, <b>comentários ofensivos</b> ou <b>depreciativos</b> e <b>ataques físicos</b> ou <b>políticos</b>.</li>
 		<li><b>Publicar informações privadas</b> de outras pessoas, como um <b>endereço físico</b> ou de <b>e-mail</b>, sem a permissão explícita.</li>
