@@ -37,17 +37,15 @@
 	e confortável para a realização das nossas atividades, e por isso pedimos aos <b>colaboradores</b> e aos
 	<b>membros da comunidade</b> que possuam esses exemplos de comportamento, tornado o dia de todos cada
 	vez melhor e positivo:
-	
-	<ul>
+	<br><ul>
 		<li>Demonstrar <b>empatia e bondade</b> para com as pessoas.</li>
 		<li><b>Respeitar</b> as opiniões das outras pessoas, pontos de vista e experiências diferentes.</li>
 		<li><b>Aceitando responsabilidades</b> e <b>pedindo desculpas</b> às pessoas afetadas por nossos erros e aprendendo com a experiência.</li>
 		<li><b>Concentrando-se</b> no que é melhor não apenas para nós como indivíduos, mas para a comunidade em geral.</li>
-	</ul>
+	</ul><br>
 	Mas como a maldade também existe, pedimos aos nossos <b>colaboradores</b> e aos <b>membros da comunidade</b> que
 	tenham respeito com outras pessoas para termos um ambiente mais acolhedor, e por esse motivo trazemos alguns exemplos do que não toleramos:
-	
-	<ul>
+	<br><ul>
 		<li>A utilização de <b>linguagem</b> ou <b>imagens sexualizadas</b> e <b>atenção ou avanços sexuais</b> de qualquer tipo.</li>
 		<li><b>Trolling</b>, <b>comentários ofensivos</b> ou <b>depreciativos</b> e <b>ataques físicos</b> ou <b>políticos</b>.</li>
 		<li><b>Publicar informações privadas</b> de outras pessoas, como um <b>endereço físico</b> ou de <b>e-mail</b>, sem a permissão explícita.</li>
