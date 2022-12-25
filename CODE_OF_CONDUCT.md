@@ -37,10 +37,56 @@
 	e confortável para a realização das nossas atividades, e por isso pedimos aos <b>colaboradores</b> e aos
 	<b>membros da comunidade</b> que possuam esses exemplos de comportamento, tornado o dia de todos cada
 	vez melhor e positivo:
+	
 	<ul>
 		<li>Demonstrar <b>empatia e bondade</b> para com as pessoas.</li>
 		<li><b>Respeitar</b> as opiniões das outras pessoas, pontos de vista e experiências diferentes.</li>
 		<li><b>Aceitando responsabilidades</b> e <b>pedindo desculpas</b> às pessoas afetadas por nossos erros e aprendendo com a experiência.</li>
 		<li><b>Concentrando-se</b> no que é melhor não apenas para nós como indivíduos, mas para a comunidade em geral.</li>
 	</ul>
-</p>
+	Mas como a maldade também existe, pedimos aos nossos <b>colaboradores</b> e aos <b>membros da comunidade</b> que
+	tenham respeito com outras pessoas para termos um ambiente mais acolhedor, e por esse motivo trazemos alguns exemplos do que não toleramos:
+	
+	<ul>
+		<li>A utilização de <b>linguagem</b> ou <b>imagens sexualizadas</b> e <b>atenção ou avanços sexuais</b> de qualquer tipo.</li>
+		<li><b>Trolling</b>, <b>comentários ofensivos</b> ou <b>depreciativos</b> e <b>ataques físicos</b> ou <b>políticos</b>.</li>
+		<li><b>Publicar informações privadas</b> de outras pessoas, como um <b>endereço físico</b> ou de <b>e-mail</b>, sem a permissão explícita.</li>
+		<li>Outra conduta que poderia razoavelmente ser considerada <b>inadequada</b> em um <b>ambiente profissional</b>.</li>
+	</ul>
+</p><br>
+
+<!-- RESPONSABILIDADES -->
+<h3 align="center">—&emsp;Responsabilidades de Execução&emsp;—</h3>
+<p align="justify">
+	Os <b>líderes comunitários</b> são responsáveis por <b>esclarecer</b> e <b>fazer cumprir</b> nossos padrões
+	de <b>comportamentos aceitáveis</b> e tomarem medidas corretivas <b>apropriadas</b> e <b>justas</b> em
+	resposta a qualquer comportamento que considerem <b>inadequado</b>, <b>ameaçador</b>, <b>ofensivo</b>
+	ou <b>prejudicial</b> as outras pessoas.
+	<br><br>
+	Os <b>líderes comunitários</b> têm o <b>direito</b> e a <b>responsabilidade</b> de <b>remover</b>,
+	<b>editar</b>, ou <b>rejeitar</b> comentários, confirmações, códigos, edições do wiki, questões e
+	outras contribuições que não estão alinhadas a este <b>Código de Conduta</b>, e comunicará os motivos
+	das decisões de moderação quando for apropriado.
+</p><br>
+
+<!-- ESCOPO -->
+<h3 align="center">—&emsp;Escopo&emsp;—</h3>
+<p align="justify">
+	Este <b>Código de Conduta</b> se aplica a <b>todos</b> os espaços da comunidade e também quando um
+	indivíduo representa oficialmente a comunidade em espaços públicos. Exemplos de representação de
+	nossa comunidade incluem o uso de um <b>endereço de e-mail oficial</b>, a <b>publicação por meio
+	de uma conta oficial de mídia social</b> ou a <b>atuação de um representante designado em um
+	evento online ou offline</b>.
+</p><br>
+
+<!-- EXECUÇÃO -->
+<h3 align="center">—&emsp;Execução&emsp;—</h3>
+<p align="justify">
+	Todas as <b>instâncias de comportamento abusivo</b>, <b>assediante</b> ou <b>inaceitável</b> podem ser
+	relatadas aos <b>líderes comunitários</b> responsáveis pela execução em nosso
+	<a href="mailto:eduardobcosta.suporte@gmail.com">endereço de e-mail oficial</a>. Todas as reclamações
+	serão <b>analisadas</b> e <b>investigadas</b> de forma <b>rápida</b> e <b>justa</b>.
+	<br><br>
+	Todos os <b>líderes comunitários</b> são obrigados a respeitar a <b>privacidade</b> e a <b>segurança</b>
+	do <b>repórter</b> ou de <b>qualquer incidente</b>.
+</p><br>
