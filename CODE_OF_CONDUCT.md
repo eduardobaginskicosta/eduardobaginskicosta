@@ -1,5 +1,12 @@
 <!-- INTRODUÇÃO -->
-<h2 align="center">Código de Conduta do Pacto do Colaborador</h2>
+<h2/>
+<h1 align="center">
+	<img src="https://user-images.githubusercontent.com/75058036/209455783-d46386e4-a12b-49fb-8785-edb8388f7228.png" height="60" align="center"><br>
+	Código de Conduta do Pacto do Colaborador
+</h1>
+<p align="center">
+	<i>Escrito e revisado por <a href="https://github.com/eduardobaginskicosta">Eduardo Baginski Costa</a>.
+</p>
 <p align="justify">
 	Boas-vindas caros <b>colaboradores</b> ao <b>Código de Conduta</b> dos meus repositórios oficiais do <b>GitHub</b>.
 	Aqui estão registrados todos os <b>direitos</b> e <b>deveres</b> que todos devem seguir para termos uma comunidade
