@@ -88,3 +88,46 @@
 	Todos os <b>líderes comunitários</b> são obrigados a respeitar a <b>privacidade</b> e a <b>segurança</b>
 	do <b>repórter</b> ou de <b>qualquer incidente</b>.
 </p><br>
+
+<!-- DIRETRIZES -->
+<h3 align="center">—&emsp;Diretrizes de Aplicação&emsp;—</h3>
+<p align="justify">
+	Todos os <b>líderes comunitários</b> devem seguir estas <b>Diretrizes de Impacto Comunitário</b> na
+	determinação das consequências de qualquer ação que considerem uma violação a este <b>Código
+	de Conduta</b>:
+	<h3 align="left">1. Correção :</h3>
+	<ul>
+		<li><b>Impacto comunitário:</b> A utilização de linguagem inadequada ou outro comportamento considerado não profissional ou indesejável na comunidade.</li>
+		<li><b>Consequência:</b> Um aviso particular por escrito dos líderes comunitários, fornecendo clareza sobre a natureza da violação e uma explicação de por que o comportamento era inadequado. Um pedido de desculpas público pode ser solicitado.</li>
+	</ul>
+	<h3 align="left">2. Aviso :</h3>
+	<ul>
+		<li><b>Impacto comunitário:</b> Uma violação através de um único incidente ou uma série de ações.</li>
+		<li><b>Consequência:</b> Um aviso contendo as consequências para o comportamento contínuo. Nenhuma interação com as pessoas evolvidas, incluindo a interação não solicitada com as pessoas que aplicam o Código de Conduta, por um período de tempo especificado. Isso inclui evitar interações no espaço da comunidade, bem como canais externos como mídias sociais. A violação desses termos podem levar a uma proibição temporária ou permanente.</li>
+	</ul>
+	<h3 align="left">3. Proibição Temporária :</h3>
+	<ul>
+		<li><b>Impacto comunitário:</b> Uma violação grave aos padrões da comunidade, incluindo comportamento inadequado sustentado.</li>
+		<li><b>Consequência:</b> Proibição temporária de qualquer tipo de interação ou comunicação pública com a comunidade por um período de tempo especificado. Nenhuma interação pública ou privada com as pessoas envolvidas, incluindo interação não solicitada com as pessoas que aplicam o Código de Conduta, é permitida durante esse período. Violar esses termos podem levar a uma proibição permanente.</li>
+	</ul>
+	<h3 align="left">4. Proibição Permanente :</h3>
+	<ul>
+		<li><b>Impacto comunitário:</b> Demonstrar um padrão de violação aos padrões da comunidade, incluindo comportamento inadequado sustentado, assédio a um indivíduo, agressão ou depreciação de classes de indivíduos.</li>
+		<li><b>Consequência:</b> Uma proibição permanente de qualquer tipo de interação pública dentro da comunidade.</li>
+	</ul>
+</p><br>
+
+<!-- ATRIBUIÇÃO -->
+<h3 align="center">—&emsp;Atribuição&emsp;—</h3>
+<p align="justify">
+	O <b>Código de Conduta</b> foi escrito e revisado por <a href="https://github.com/eduardobaginskicosta">Eduardo Baginski Costa</a>
+	utilizando como base o modelo do <b>Pacto do Colaborador</b> disponibilizado pelo <a href="https://github.com/">GitHub</a>,
+	adaptado do <a href="https://www.contributor-covenant.org/">Pacto do Colaborador</a> (<i>versão 2.0</i>), e com
+	suas <b>Diretrizes de Impacto da Comunidade</b> inspirados na
+	<a href="https://github.com/mozilla/diversity">Escada de aplicação do código de conduta da Mozilla</a>, ambos
+	disponíveis em:
+</p>
+<p align="center">
+	<b><a href="https://www.contributor-covenant.org/version/2/0/code_of_conduct/">Contributor Covenant - Code of Conduct</a></b>&emsp;
+	<b><a href="https://github.com/mozilla/diversity">Mozilla - Diversity & Inclusion in Open Source</a></b>
+</p><br>
