@@ -51,5 +51,6 @@
 		<a href="https://instagram.com/eduardobcosta7/" target="_blank"><b>Instagram</b></a>&emsp;
 		<a href="https://eduardobcosta.medium.com/" target="_blank"><b>Medium</b></a>&emsp;
 		<a href="https://youtube.com/@eduardobcosta/" target="_blank"><b>YouTube</b></a>
+		<a href="https://www.linkedin.com/in/eduardobaginskicosta/" target="_blank"><b>LinkedIn</b></a>
 	</p>
 </p>
