@@ -43,16 +43,46 @@
 <!-- TECNOLOGIAS -->
 
 <h2>
-	Tecnologias e Linguagens
+	Linguagens e Tecnologias
 	<a href="https://github.com/eduardobaginskicosta/" title="Acessar o GitHub.">
 		<img align="right" src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white">
 	</a>
 </h2>
 
-<!-- PERFIL DO GITHUB -->
+<p align="left">
+	<p float="middle">
+		Dentre as mais diversificadas <b>linguagens de programação</b>, <b>bibliotecas</b>, <b>frameworks</b> e <b>IDE's</b> que
+		já utilizei durante a minha vida, aglumas permaneceram até os dias atuais se tornando as minhas favortias, e você pode
+		acompanhar a seguir os guerreiros que soberviveram a essa guerra insana:
+		<br><br>
+		<img src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/Java_Script-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&ensp;
+		<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+		&emsp; ‾ &emsp;
+		<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
+		<br>
+		<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+		&emsp; ‾ &emsp;
+		<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
+		<br><br>
+		<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&ensp;
+		<img src="https://img.shields.io/badge/SharpDevlop-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+	</p>
+</p>
+
+<!-- STATUS DO GITHUB -->
 
 <h2>
-	Perfil do GitHub
+	Status do GitHub
 	<a href="https://github.com/eduardobaginskicosta/" title="Acessar o GitHub.">
 		<img align="right" src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white">
 	</a>
