@@ -7,15 +7,7 @@
 
 <!-- INTRODUÇÃO -->
 
-<h2>
-	Eduardo Baginski Costa
-	<a href="mailto:eduardobcosta1234@gmail.com" title="Entrar em contato via GMail.">
-		<img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<a href="https://linkedin.com/in/eduardobaginskicosta/" title="Acessar o LinkedIn.">
-		<img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-</h2>
+<h2>Eduardo Baginski Costa</h2>
 
 <p align="justify">
 	Olá caros entusiastas da programação e das tecnologias como um todo!
@@ -42,53 +34,33 @@
 
 <!-- TECNOLOGIAS -->
 
-<h2>
-	Linguagens e Tecnologias
-	<a href="https://github.com/eduardobaginskicosta/" title="Acessar o GitHub.">
-		<img align="right" src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white">
-	</a>
-</h2>
+<h2>Linguagens e Tecnologias</h2>
 
 <p align="left">
 	<p float="middle">
 		Dentre as mais diversificadas <b>linguagens de programação</b>, <b>bibliotecas</b>, <b>frameworks</b> e <b>IDE's</b> que
 		já utilizei durante a minha vida, aglumas permaneceram até os dias atuais se tornando as minhas favortias, e você pode
 		acompanhar a seguir os guerreiros que soberviveram a essa guerra insana:
-		<br><br>
-		<img src="https://img.shields.io/badge/HTML_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/Java_Script-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&ensp;
-		<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-		&emsp; ‾ &emsp;
-		<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
-		<br>
-		<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-		&emsp; ‾ &emsp;
-		<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white">
-		<br><br>
-		<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&ensp;
-		<img src="https://img.shields.io/badge/SharpDevlop-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+		<br><ul>
+			<li>Desenvolvimento Web: <b>HTML</b>, <b>CSS</b>, <b>Java Script</b> e <b>JSON</b> — <b>NPM</b>, <b>jQuery</b> e <b>Composer</b>.</li>
+			<li>Desenvolvimento Desktop: <b>C</b>, <b>C++</b>, <b>C#</b>, <b>Java Script</b> e <b>JSON</b> - <b>NPM</b>, <b>Node.js (Electron)</b> e <b>NuGet</b>.</li><br>
+			<li>Editor de texto: <b>Visual Studio Code</b> e <b>Sublime Text 2</b> e <b>3</b>.</li>
+			<li>IDE do CSharp: <b>SharpDevelop 5.0</b> e <b>SharpDevelop 5.1</b>.<//li>
+		</ul>
 	</p>
 </p>
 
-<!-- STATUS DO GITHUB -->
+<!-- CONTATOS -->
 
-<h2>
-	Status do GitHub
-	<a href="https://github.com/eduardobaginskicosta/" title="Acessar o GitHub.">
-		<img align="right" src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white">
-	</a>
-</h2>
+<h2>Redes Sociais e Contatos</h2>
 
 <p float="middle">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=eduardobaginskicosta&theme=nord&hide_border=true&mode=weekly" width="49.7%">
-	<img src="https://github-readme-stats.vercel.app/api?username=eduardobaginskicosta&theme=nord&hide_border=true" width="49.7%">
+	Se deseja saber um pouco mais sobre mim e ficar por dentro de todas as novidades, futuros projetos e repositórios sugiro que você me siga nas
+	redes sociais: <b><a href="https://facebook.com/eduardobaginskicosta/">Facebook</a></b>, <b><a href="https://twitter.com/@eduardobcosta7/">Twitter</a></b> ou <b><a href="https://instagram.com/eduardobcosta7/">Instagram</a></b>.
+	<br><br>
+	Mas se o seu desejo é se manter informado sobre o nosso mundo, dicas importantes para o cuidado do seu computador ou até mesmo sobre
+	segurança digital, siga-me no <b><a href="https://eduardobcosta.medium.com/">Medium</a></b>.
+	<br><br>
+	Para contato profissional, por favor, envie uma mensagem no meu <b><a href="mailto:eduardobcosta134@gmail.com">e-mail oficial</a></b> ou
+	acesse o meu <b><a href="https://linkedin.com/in/eduardobaginskicosta">perfil oficial</a></b> do <b>LinkedIn</b>.
 </p>
