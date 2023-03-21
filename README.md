@@ -16,11 +16,11 @@
 	desenvolver tanto programas quanto sites, sejam estes para realizar tarefas simples ou extremamente complexas. Posso apenas ter
 	alguns anos de idade, mas posso garantir que detenho bastante conhecimento sobre programação, principalmente sobre a linguagem <b>CSharp</b>.
 	<br><br>
-	Desde os meus <b>8 anos</b> já programei diversos projetos pessoais, totalizando com os projetos atuais mais de <b>50 projetos</b> idealizados
+	Desde os meus <b>8 anos</b> já programei diversos projetos pessoais, totalizando com os projetos atuais mais de <b>237 projetos</b> idealizados
 	e proramados, com a promessa de mais pela frente. O meu desejo é futuramente refazê-los e deixa-los de forma pública aqui no <b>GitHub</b>
 	através dos repositórios, provavelmente arquivados (para os mais antigos).
 	<br><br>
-	Dentre estes <b>50 projetos</b> os mais importantes que me ajudaram a ser quem sou hoje em dia, são:
+	Dentre estes <b>237 projetos</b> os mais importantes que me ajudaram a ser quem sou hoje em dia, são:
 	<ul>
 		<li>Três <b>WebCrawler's</b> desenvolvidos em <b>PHP (Composer)</b>.</li>
 		<li>Dois editores de <b>texto enriquecido (RTF)</b> completos.</li>
