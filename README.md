@@ -5,6 +5,16 @@
 [youtube]: https://youtube.com/@eduardobcosta/
 [linkedin]: https://www.linkedin.com/in/eduardobaginskicosta/
 
+<!--
+   Olá, seja bem-vindo ao arquivo "README.md" do meu perfil oficial do GitHub.
+
+   Se você está lendo esta mensagem provavelmente você sabe como ver o conteúdo
+   de arquivos no GitHub, e se não estiver lendo isso provavelmente você não sabe
+   fazer isso :)
+
+   Assinado, eu mesmo.
+-->
+
 <!-- HELLO WORLD! -->
 
 # Hello World :wave:
@@ -58,10 +68,10 @@ comigo até os dias atuais seja por sua **importância na minha vida**, por ser 
 Possuo diversas **redes sociais** em que você pode estar interagindo comigo, entrando em contato ou simplesmente me enviando alguma
 mensagem positiva. Se você desejar os links para os **perfis oficiais** estão logo abaixo 👇:
 
-- **[Acessar perfil oficial do Facebook](facebook)**.
-- **[Acessar perfil oficial do Twitter](twitter)**.
-- **[Acessar perfil oficial do Instagram](instagram)**.
-- **[Acessar perfil oficial do Medium](medium)**.
+- **[Acessar perfil oficial do Facebook](https://facebook.com/eduardobaginskicosta/)**.
+- **[Acessar perfil oficial do Twitter](https://twitter.com/eduardobcosta7/)**.
+- **[Acessar perfil oficial do Instagram](https://instagram.com/eduardobcosta7/)**.
+- **[Acessar perfil oficial do Medium](https://eduardobcosta.medium.com/)**.
 
 Se você está no meu perfil atrás de **negócios** ou **serviços** envie um **[e-mail para mim](mailto:eduardobcosta1234@gmail.com)** ou
-acesse o meu **[perfil oficial do LinkedIn](linkedin)** 🗿🍷. 
+acesse o meu **[perfil oficial do LinkedIn](https://www.linkedin.com/in/eduardobaginskicosta/)** 🗿🍷. 
