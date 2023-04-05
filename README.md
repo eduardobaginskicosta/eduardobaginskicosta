@@ -5,62 +5,63 @@
 [youtube]: https://youtube.com/@eduardobcosta/
 [linkedin]: https://www.linkedin.com/in/eduardobaginskicosta/
 
-<!-- INTRODUÇÃO -->
+<!-- HELLO WORLD! -->
 
-<h2>Eduardo Baginski Costa</h2>
+# Hello World :wave:
 
-<p align="justify">
-	Olá caros entusiastas da programação e das tecnologias como um todo!
-	<br><br>
-	Me chamo <a herf="github.com/eduardobaginskicosta/"><b>Eduardo Baginski Costa</b></a> e sou um autodidata brasileiro que ama
-	desenvolver tanto programas quanto sites, sejam estes para realizar tarefas simples ou extremamente complexas. Posso apenas ter
-	alguns anos de idade, mas posso garantir que detenho bastante conhecimento sobre programação, principalmente sobre a linguagem <b>CSharp</b>.
-	<br><br>
-	Desde os meus <b>8 anos</b> já programei diversos projetos pessoais, totalizando com os projetos atuais mais de <b>237 projetos</b> idealizados
-	e proramados, com a promessa de mais pela frente. O meu desejo é futuramente refazê-los e deixa-los de forma pública aqui no <b>GitHub</b>
-	através dos repositórios, provavelmente arquivados (para os mais antigos).
-	<br><br>
-	Dentre estes <b>237 projetos</b> os mais importantes que me ajudaram a ser quem sou hoje em dia, são:
-	<ul>
-		<li>Três <b>WebCrawler's</b> desenvolvidos em <b>PHP (Composer)</b>.</li>
-		<li>Dois editores de <b>texto enriquecido (RTF)</b> completos.</li>
-		<li>Três navegadores desenvolvidos em <b>CSharp</b> utilizando o motor de layout <b>GeckoFX</b>.</li>
-		<li>Quatro navegadores desenvolvidos em <b>CSharp</b> utilizando o motor de layout <b>CEF</b>.</li>
-		<li>Cópia do <b>Facebook</b>, <b>Twitter</b>, <b>Youtube</b>, <b>Google</b> utilizando <b>HTML</b>, <b>CSS</b>, <b>Java Script (jQuery)</b> e <b>PHP (Composer)</b>.</li>
-		<li>Dois clientes de e-mail simples desenvolvidos em <b>CSharp</b> (<b>GMail</b> e genérico).</li>
-		<li><b>Servidor HTTP</b> local com suporte a <b>PHP</b> (utilizando o <b>PHP Common Gateway Interface</b>) desenvolvido em <b>CSharp</b>.</li>
-	</ul>
-</p>
+Eu sou **Eduardo Baginski Costa** um programador autodidata brasileiro que está se formando em **Engenharia de Software**.   
+   
+Atualmente estou focado em desenvolver aplicativos e bibliotecas totalmente **Open Source** sobre a **Licença do MIT** ou sobre a
+**Licença BSD-3-Clause**. Alguns desses projetos são adaptações de projetos que criei aos meus **8 anos** de idade, ao qual, com os
+meus conhecimentos atuais podem se tornar **ferramentas poderosas** nas **mãos certas**, e pensando nisso que eu as desenvolvo com alegria.
 
-<!-- TECNOLOGIAS -->
+> Acredito que todo o esforço para desenvolver essas bibliotecas e aplicativos, sejam esses complexos ou não, valem apena a partir do momento em que
+> ajudam outas pessoas a **alcançarem seus objetivos**.
 
-<h2>Linguagens e Tecnologias</h2>
+<!-- PROGRAM LANGUAGES -->
 
-<p align="left">
-	<p float="middle">
-		Dentre as mais diversificadas <b>linguagens de programação</b>, <b>bibliotecas</b>, <b>frameworks</b> e <b>IDE's</b> que
-		já utilizei durante a minha vida, aglumas permaneceram até os dias atuais se tornando as minhas favortias, e você pode
-		acompanhar a seguir os guerreiros que soberviveram a essa guerra insana:
-		<br><ul>
-			<li>Desenvolvimento Web: <b>HTML</b>, <b>CSS</b>, <b>Java Script</b> e <b>JSON</b> — <b>NPM</b>, <b>jQuery</b> e <b>Composer</b>.</li>
-			<li>Desenvolvimento Desktop: <b>C</b>, <b>C++</b>, <b>C#</b>, <b>Java Script</b> e <b>JSON</b> - <b>NPM</b>, <b>Node.js (Electron)</b> e <b>NuGet</b>.</li><br>
-			<li>Editor de texto: <b>Visual Studio Code</b> e <b>Sublime Text 2</b> e <b>3</b>.</li>
-			<li>IDE do CSharp: <b>SharpDevelop 5.0</b> e <b>SharpDevelop 5.1</b>.<//li>
-		</ul>
-	</p>
-</p>
+## Linguagens de Programação, IDE e Ferramentas 🥰
 
-<!-- CONTATOS -->
+Ao longo dos anos utilizei diversas **linguagens de programação** indo desde o **Pascal** até o **C-Sharp**, porém apénas algumas permaneceram
+comigo até os dias atuais seja por sua **importância na minha vida**, por ser interessante, pela sua facilidade ou pelo **amor a primeira vista**.
 
-<h2>Redes Sociais e Contatos</h2>
+<!-- >> Desenvolvimeto Desktop << -->
+![C-Sharp](https://img.shields.io/badge/C--Sharp-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-00599C?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-00599C?style=for-the-badge)
+&emsp;
+![SharpDevelop 4.4](https://img.shields.io/badge/SharpDevelop_4.4-5881D8?style=for-the-badge)
+![SharpDevelop 5.0](https://img.shields.io/badge/SharpDevelop_5.0-5881D8?style=for-the-badge)
+&emsp;
+![NuGet](https://img.shields.io/badge/NuGet-00ADD8?style=for-the-badge)
+![DLLs](https://img.shields.io/badge/DLLs-00ADD8?style=for-the-badge)
 
-<p float="middle">
-	Se deseja saber um pouco mais sobre mim e ficar por dentro de todas as novidades, futuros projetos e repositórios sugiro que você me siga nas
-	redes sociais: <b><a href="https://facebook.com/eduardobaginskicosta/">Facebook</a></b>, <b><a href="https://twitter.com/@eduardobcosta7/">Twitter</a></b> ou <b><a href="https://instagram.com/eduardobcosta7/">Instagram</a></b>.
-	<br><br>
-	Mas se o seu desejo é se manter informado sobre o nosso mundo, dicas importantes para o cuidado do seu computador ou até mesmo sobre
-	segurança digital, siga-me no <b><a href="https://eduardobcosta.medium.com/">Medium</a></b>.
-	<br><br>
-	Para contato profissional, por favor, envie uma mensagem no meu <b><a href="mailto:eduardobcosta134@gmail.com">e-mail oficial</a></b> ou
-	acesse o meu <b><a href="https://linkedin.com/in/eduardobaginskicosta">perfil oficial</a></b> do <b>LinkedIn</b>.
-</p>
+<!-- >> Desenvolvimento Web << -->
+![HTML 5](https://img.shields.io/badge/HTML_5-00599C?style=for-the-badge)
+![CSS 3](https://img.shields.io/badge/CSS_3-00599C?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-00599C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-00599C?style=for-the-badge)
+&emsp;
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-5881D8?style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/XAMPP-5881D8?style=for-the-badge)
+&emsp;
+![Composer](https://img.shields.io/badge/Composer-00ADD8?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-00ADD8?style=for-the-badge)
+
+<!-- SOCIAL MEDIA -->
+
+## Onde Me Encontar? 🧐
+
+Possuo diversas **redes sociais** em que você pode estar interagindo comigo, entrando em contato ou simplesmente me enviando alguma
+mensagem positiva. Se você desejar os links para os **perfis oficiais** estão logo abaixo 👇:
+
+- **[Acessar perfil oficial do Facebook](facebook)**.
+- **[Acessar perfil oficial do Twitter](twitter)**.
+- **[Acessar perfil oficial do Instagram](instagram)**.
+- **[Acessar perfil oficial do Medium](medium)**.
+
+Se você está no meu perfil atrás de **negócios** ou **serviços** envie um **[e-mail para mim](mailto:eduardobcosta1234@gmail.com)** ou
+acesse o meu **[perfil oficial do LinkedIn](linkedin)** 🗿🍷. 
