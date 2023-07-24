@@ -7,8 +7,6 @@
 
 ![Gato Espacial 😺](./Cat-Cropped.jpg)
 
----
-
 Eu sou **Eduardo Baginski Costa** um programador e autodidata brasileiro, estou fazendo **Bacharelado** em **Engenharia de Software** pela **UniFatecie**. Atualmente projeto e desenvolvo diversos **softwares** e **serviços online** para a utilização própria ou sob demanda para pessoas ou empresas.
    
 - Possuo experiência moderada no desenvolvimento de projetos **Front-End** utilizando **HTML**, **CSS**, **JavaScript**, **JSON** e **XML** além de bibliotecas como o **jQuery** e o **Axios**, também utilizo de tecnologias como o **NodeJS** e **NPM**.
