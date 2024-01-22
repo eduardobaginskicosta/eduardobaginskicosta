@@ -1,28 +1,52 @@
-<!-- LINKS EXTERNOS -->
+<!-- External Links -->
 
-[facebook]: https://facebook.com/eduardobaginskicosta/
-[twitter]: https://twitter.com/eduardobcosta7/
-[instagram]: https://instagram.com/eduardobcosta7/
-[medium]: https://eduardobcosta.medium.com/
-[youtube]: https://youtube.com/@eduardobcosta/
-[patreon]: https://www.patreon.com/eduardobcosta
+[url_facebook]: https://facebook.com/eduardobaginskicosta/
+[url_x]: https://x.com/eduardobcosta7/
+[url_instagram]: https://instagram.com/eduardobcosta7/
+[url_medium]: https://eduardobcosta.medium.com/
+[url_patreon]: https://www.patreon.com/eduardobcosta
 
-<!-- LINKS EXTERNOS COMERCIAIS -->
+<!-- Commercial External Links -->
 
-[linkedin]: https://www.linkedin.com/in/eduardobaginskicosta/
-[email]: mailto:eduardobcosta1234@gmail.com
+[url_linkedin]: https://www.linkedin.com/in/eduardobaginskicosta/
+[url_gmail]: mailto:eduardobcosta1234@gmail.com
 
-<!-- DECORAÇÃO -->
+<!-- Personal Presentation -->
 
-![Gato Espacial 😺](./blue_sky_cinematic.jpg)
+![Painting of a blue river](./blue_sky_cinematic.png)
 
-<!-- DESCRIÇÃO -->
+<b>Personal Presentation • English (United States)</b>
 
-Sou um autodidata com exímios conhecimentos em diversas áreas do conhecimento, principalmente programação e exatas. Desde a infância venho projetando e desenvolvendo soluções engenhosas e eficientes para solucionar meus e de outras pessoas; muitos projetos pessoais e privados ainda são utilizados.
+<p style="text-align: justify !important; letter-spacing: 0.01em;">
+    I am a self-taught person with excellent knowledge in several areas such as mathematics, theoretical physics and programming. Since childhood, I have designed and developed ingenious and efficient solutions to meet my needs or the specific needs of third parties (individuals and legal entities); Many of the projects are still in full use and supporting updates.
+</p>
 
-<!-- PERFIS OFICIAIS -->
+<b>Personal Presentation • Portuguese (Brazil)</b>
 
--   **Contatos Comerciais**: [LinkedIn][linkedin] ou [e-mail oficial][email].
--   **Redes Sociais**: [Facebook][facebook], [Twitter][twitter], [Instagram][instagram].
--   **Blog Pesoal**: [Medium][medium].
--   **Doações**: [Patreon][patreon].
+<p style="text-align: justify !important; letter-spacing: 0.01em;">
+    Sou um autodidata com exímios conhecimentos em diversas áreas como a matemática, física teórica e programação. Desde a infância projeto e desenvolvo soluções engenhosas e eficientes para suprir as minhas necessidades ou as necessidades específicas de terceiros (pessoas físicas e jurídicas); muitos dos projetos ainda estão em plena utilização e com suporte a atualizações.
+</p>
+
+<!-- Actions -->
+
+<p style="text-align: center; letter-spacing: 0.01em;">
+    <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Facebook</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://instagram.com/eduardobcosta7/" target="about:blank"><b>Instagram</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Instagram</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://eduardobcosta.medium.com/" target="about:blank"><b>Medium</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://x.com/eduardobcosta7/" target="about:blank"><b>X</b></a>
+</p>
+
+<p style="text-align: center; letter-spacing: 0.01em;">
+    <a href="https://www.linkedin.com/in/eduardobaginskicosta/" target="about:blank"><b>LinkedIn Profile</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="mailto:eduardobcosta1234@gmail.com" target="about:blank"><b>Commercial Email</b></a>
+</p>
+
+<p style="text-align: center; letter-spacing: 0.01em;">
+    <a href="https://www.patreon.com/eduardobcosta" target="about:blank"><b>Make Donation</b></a>
+</p>
