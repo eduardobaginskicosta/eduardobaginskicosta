@@ -17,42 +17,36 @@
 
 <b>Personal Presentation • English (United States)</b>
 
-<p>
+<p align="justify">
     I am a self-taught person with excellent knowledge in several areas such as mathematics, theoretical physics and programming. Since childhood, I have designed and developed ingenious and efficient solutions to meet my needs or the specific needs of third parties (individuals and legal entities); Many of the projects are still in full use and supporting updates.
 </p>
 
 <b>Personal Presentation • Portuguese (Brazil)</b>
 
-<p>
+<p align="justify">
     Sou um autodidata com exímios conhecimentos em diversas áreas como a matemática, física teórica e programação. Desde a infância projeto e desenvolvo soluções engenhosas e eficientes para suprir as minhas necessidades ou as necessidades específicas de terceiros (pessoas físicas e jurídicas); muitos dos projetos ainda estão em plena utilização e com suporte a atualizações.
 </p>
 
 <!-- Actions -->
 
-<p>
-    <center>
-        <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Facebook</b></a>
-        <span>&emsp;•&emsp;</span>
-        <a href="https://instagram.com/eduardobcosta7/" target="about:blank"><b>Instagram</b></a>
-        <span>&emsp;•&emsp;</span>
-        <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Instagram</b></a>
-        <span>&emsp;•&emsp;</span>
-        <a href="https://eduardobcosta.medium.com/" target="about:blank"><b>Medium</b></a>
-        <span>&emsp;•&emsp;</span>
-        <a href="https://x.com/eduardobcosta7/" target="about:blank"><b>X</b></a>
-    </center>
+<p align="center">
+    <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Facebook</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://instagram.com/eduardobcosta7/" target="about:blank"><b>Instagram</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Instagram</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://eduardobcosta.medium.com/" target="about:blank"><b>Medium</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="https://x.com/eduardobcosta7/" target="about:blank"><b>X</b></a>
 </p>
 
-<p>
-    <center>
-        <a href="https://www.linkedin.com/in/eduardobaginskicosta/" target="about:blank"><b>LinkedIn Profile</b></a>
-        <span>&emsp;•&emsp;</span>
-        <a href="mailto:eduardobcosta1234@gmail.com" target="about:blank"><b>Commercial Email</b></a>
-    </center>
+<p align="center">
+    <a href="https://www.linkedin.com/in/eduardobaginskicosta/" target="about:blank"><b>LinkedIn Profile</b></a>
+    <span>&emsp;•&emsp;</span>
+    <a href="mailto:eduardobcosta1234@gmail.com" target="about:blank"><b>Commercial Email</b></a>
 </p>
 
-<p>
-    <center>
-        <a href="https://www.patreon.com/eduardobcosta" target="about:blank"><b>Make Donation</b></a>
-    </center>
+<p align="center">
+    <a href="https://www.patreon.com/eduardobcosta" target="about:blank"><b>Make Donation</b></a>
 </p>
