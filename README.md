@@ -34,11 +34,9 @@
     <span>&emsp;•&emsp;</span>
     <a href="https://instagram.com/eduardobcosta7/" target="about:blank"><b>Instagram</b></a>
     <span>&emsp;•&emsp;</span>
-    <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Instagram</b></a>
-    <span>&emsp;•&emsp;</span>
     <a href="https://eduardobcosta.medium.com/" target="about:blank"><b>Medium</b></a>
     <span>&emsp;•&emsp;</span>
-    <a href="https://x.com/eduardobcosta7/" target="about:blank"><b>X</b></a>
+    <a href="https://x.com/eduardobcosta7/" target="about:blank"><b>X (Twitter)</b></a>
 </p>
 
 <p align="center">
