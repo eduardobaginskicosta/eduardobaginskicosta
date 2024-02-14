@@ -5,6 +5,7 @@
 [url_instagram]: https://instagram.com/eduardobcosta7/
 [url_medium]: https://eduardobcosta.medium.com/
 [url_patreon]: https://www.patreon.com/eduardobcosta
+[url_sponsors]: https://github.com/sponsors/eduardobaginskicosta
 
 <!-- Commercial External Links -->
 
@@ -29,22 +30,10 @@
 
 <!-- Actions -->
 
-<p align="left">
-    <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Facebook</b></a>
-    <span>&emsp;•&emsp;</span>
-    <a href="https://instagram.com/eduardobcosta7/" target="about:blank"><b>Instagram</b></a>
-    <span>&emsp;•&emsp;</span>
-    <a href="https://eduardobcosta.medium.com/" target="about:blank"><b>Medium</b></a>
-    <span>&emsp;•&emsp;</span>
-    <a href="https://x.com/eduardobcosta7/" target="about:blank"><b>X (Twitter)</b></a>
-</p>
+[Facebook][url_facebook] • [Instagram][url_instagram] • [Medium][url_medium] • [X (Twitter)][url_x]   
+[LinkedIn][url_linkedin] • [Comercial e-mail][url_gmail]
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/eduardobaginskicosta/" target="about:blank"><b>LinkedIn Profile</b></a>
-    <span>&emsp;•&emsp;</span>
-    <a href="mailto:eduardobcosta1234@gmail.com" target="about:blank"><b>Commercial Email</b></a>
-</p>
+------
 
-<p align="center">
-    <a href="https://www.patreon.com/eduardobcosta" target="about:blank"><b>Make Donation</b></a>
-</p>
+[Donate with GitHub Sponsors][url_sponsors]   
+[Donate with Patreon][url_patreon]
