@@ -29,7 +29,7 @@
 
 <!-- Actions -->
 
-<p align="center">
+<p align="left">
     <a href="https://facebook.com/eduardobaginskicosta/" target="about:blank"><b>Facebook</b></a>
     <span>&emsp;•&emsp;</span>
     <a href="https://instagram.com/eduardobcosta7/" target="about:blank"><b>Instagram</b></a>
