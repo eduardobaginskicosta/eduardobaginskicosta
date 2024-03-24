@@ -1,7 +1,7 @@
 <!-- PRESENTATION -->
 
 <h3 align="center">
-    Self-taught <i>&</i> Software Engineering
+    Software Engineering • Web <i>&</i> Desktop
 </h3>
 
 <img src="./assets/rounded_banner.png" alt="Contributing To A Better World" />
